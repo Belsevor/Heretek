@@ -1,0 +1,42 @@
+*{
+    color:indigo
+}
+#head {
+color:black
+}
+.bighead, .smallhead{
+    color:darkgreen
+}
+.first3paragraphs{
+    color:brown
+}
+a{
+    color:black
+}
+#par8 {
+    color:darkorange
+}
+#par3 strong {
+    color:red
+}
+.otherpars.last3paragraphs {
+    color:crimson
+}
+#par5{
+    color:gray
+}
+.last3paragraphs{
+    color:darkgoldenrod
+}
+#par7{
+    color:hotpink
+}
+.otherpars{
+    color:blue
+}
+.desc{
+    color:black
+}
+#stronk{
+    color:rgb(33, 11, 155)
+}
